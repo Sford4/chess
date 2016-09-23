@@ -1,0 +1,28 @@
+{
+  "name": "chess",
+  "version": "1.0.0",
+  "description": "\"Code for Spencer's chess game, Aug 2016\"",
+  "main": "Chess.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sford4/chess.git"
+  },
+  "author": "Spencer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sford4/chess/issues"
+  },
+  "homepage": "https://github.com/Sford4/chess#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.3.2",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^2.0.0",
+    "gulp-watch": "^4.3.9"
+  }
+}

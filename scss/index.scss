@@ -1,0 +1,111 @@
+
+.square {
+	height: 6vw;
+	width: 6vw;
+	display: inline-block;
+	margin: 0 0 -.9vw 0;
+}
+
+.highlight{
+	height: 4.5vw;
+	width: 4.5vw;
+	display: inline-block;
+	margin: 0 0 -.9vw 0;
+	border-style: solid;
+    border-width: 5px;
+    border-color: "red";
+}
+
+#dat-board{
+	margin: 0vw auto 0vw auto;
+	display: block;
+	width: 50vw;
+	min-width: 50vw;
+}
+
+.row {
+	margin: 0 0 0 0;
+}
+
+.odd {
+	background-color: #606060;
+}
+
+.even {
+	background-color: #D8D8D8;
+}
+
+
+
+.black-king {
+	text-align: center;
+	font-size: 5vw;
+	vertical-align: -.5vw;
+}
+
+.black-queen {
+	text-align: center;
+	font-size: 5vw;
+	vertical-align: -.5vw;
+}
+
+.black-rook {
+	text-align: center;
+	font-size: 5vw;
+	vertical-align: -.5vw;
+}
+
+.black-bishop {
+	text-align: center;
+	font-size: 5vw;
+	vertical-align: -.5vw;
+}
+
+.black-knight {
+	text-align: center;
+	font-size: 5vw;
+	vertical-align: -.5vw;
+}
+
+.black-pawn {
+	text-align: center;
+	font-size: 5vw;
+	vertical-align: -.5vw;
+}
+
+.white-king {
+	text-align: center;
+	font-size: 5vw;
+	vertical-align: -.5vw;
+}
+
+.white-queen {
+	text-align: center;
+	font-size: 5vw;
+	vertical-align: -.5vw;
+}
+
+.white-rook {
+	text-align: center;
+	font-size: 5vw;
+	vertical-align: -.5vw;
+}
+
+.white-bishop {
+	text-align: center;
+	font-size: 5vw;
+	vertical-align: -.5vw;
+}
+
+.white-knight {
+	text-align: center;
+	font-size: 5vw;
+	vertical-align: -.5vw;
+}
+
+.white-pawn {
+	text-align: center;
+	font-size: 5vw;
+	vertical-align: -.5vw;
+	
+}

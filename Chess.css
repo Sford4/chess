@@ -1,0 +1,53 @@
+*, *:before, *:after {
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+}
+
+
+.square {
+	height: 6vw;
+	width: 6vw;
+	display: inline-block;
+	margin: 0 0 0 0;
+	float: left;
+	border:3px solid transparent;
+	max-width:  6vw;
+	max-height: 6vw;
+
+}
+
+.highlight{
+	border-style: solid;
+    border-color: green;
+
+}
+
+#dat-board{
+	margin: 0vw auto 0vw auto;
+	display: block;
+	width: 50vw;
+	min-width: 50vw;
+	position: relative;
+}
+
+.row {
+	clear: both;
+	}
+
+.odd {
+	background-color: #606060;
+}
+
+.even {
+	background-color: #D8D8D8;
+}
+
+
+
+.piece {
+	line-height: 6vw;
+	text-align: center;
+	font-size: 5vw;
+	position: relative;
+}
